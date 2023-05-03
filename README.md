@@ -2,8 +2,6 @@
 
 This repo contains mainly a simple Jenkinsfile
 
-Bob's branch is making this changes
+Bob
 
-Change again
-
-lue lue
+3/May/2023
