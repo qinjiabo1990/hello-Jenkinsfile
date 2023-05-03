@@ -2,6 +2,4 @@
 
 This repo contains mainly a simple Jenkinsfile
 
-Hello world
-
-Hello Blue Ocean
+Bob's branch is making this changes
